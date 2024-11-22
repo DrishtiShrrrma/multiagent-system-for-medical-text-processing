@@ -1,5 +1,16 @@
 Multi-agent systems collaborate to handle tasks like summarization, article writing, and PHI redaction.
 
+medical_ai_agents/
+├── agents/
+│ ├── main_agents.py
+│ └── validator_agents.py
+├── core/
+│ ├── agent_manager.py
+│ └── logger.py
+├── utils/
+│ └── ollama_utils.py
+├── app.py
+└── requirements.txt
 
 
 # Architecture of the System
