@@ -10,3 +10,8 @@ Multi-agent systems collaborate to handle tasks like summarization, article writ
 2. Validator Agents: Validate outputs for quality and accuracy.
 3. Agent Manager: Coordinates agents.
 - Logger: Tracks interactions for debugging.
+
+
+# References: 
+1. https://medium.com/the-ai-forum/building-a-multi-agent-ai-system-from-scratch-for-medical-text-processing-dc6f10fc5f04
+2. https://github.com/plaban1981/Medical-Agent-from-Scratch
